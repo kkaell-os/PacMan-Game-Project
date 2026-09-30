@@ -24,7 +24,7 @@ I built the first version over **2 days**, spending around **1 hour each day**, 
 
 ### Gameplay
 
-![Pac-Man Gameplay](screenshots\gameplay.png)
+![Pac-Man Gameplay](PacMan/screenshots/gameplay.png)
 
 
 ## Built With
