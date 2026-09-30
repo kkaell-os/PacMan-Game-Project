@@ -1,72 +1,59 @@
-Here's a first-draft description you can use, whether it goes in a README, on a portfolio, or in a project submission:
+# Pac-Man
+
+A Java recreation of the classic Pac-Man arcade game, built in IntelliJ IDEA.
+
+## About
+
+This is my first working draft of Pac-Man, created as a way to learn the basics of game development using Java.
+
+I built the first version over **2 days**, spending around **1 hour each day**, while following an online tutorial and learning how the different parts of a Java game work together.
+
+## Features
+
+- Playable Pac-Man character
+- Keyboard controls
+- Maze with walls
+- Wall collision detection
+- Pellets to collect
+- Score tracking
+- Ghosts that move around the maze
+- Lives system
+- Game over system
+
+## Screenshots
+
+### Gameplay
+
+![Pac-Man Gameplay](screenshots\gameplay.png)
 
 
+## Built With
 
-\---
+- **Java**
+- **Java Swing**
+- **Java AWT**
+- **IntelliJ IDEA**
 
+## Planned Improvements
 
+- Smarter ghost AI
+- Chase and scatter behavior
+- Power pellets
+- Multiple levels
+- Increasing difficulty
+- Sound effects
+- Animations
+- High score saving
 
-\## Pac-Man (First Draft)
+## Credits
 
+This project was created while following an online tutorial.
 
+**Tutorial:** Code Pacman in Java  
+**Link:** https://www.youtube.com/watch?v=lB_J-VNMVpE&list=PLnKe36F30Y4Y1XQOqNsL9Fgg_p6nYhcng
 
-A Java version of the classic Pac-Man arcade game, built in IntelliJ IDEA.
+## Project Status
 
+**First Draft / In Development**
 
-
-\### About
-
-This is the first working draft of the game, covering the core Pac-Man gameplay. I built it over \*\*2 days, spending about an hour each day\*\*, and followed an online guide while learning the basics of game development in Java.
-
-
-
-\### Current Features
-
-\- A playable Pac-Man character with keyboard controls
-
-\- A maze with walls and collision detection
-
-\- Pellets to collect, with score tracking
-
-\- Ghosts that move around the maze
-
-\- Lives and game over
-
-
-
-\### Built With
-
-\- Java
-
-\- IntelliJ IDEA
-
-\- \*(Java Swing / AWT, if that's what the guide used)\*
-
-
-
-\### Planned Improvements
-
-\- Smarter ghost AI (chase and scatter behavior)
-
-\- Power pellets that make ghosts vulnerable
-
-\- More levels with higher difficulty
-
-\- Sound effects and animations
-
-\- High score saving
-
-
-
-\### Credits
-
-Based on an online tutorial: \*\[add guide name/link here]\*
-
-
-
-\---
-
-
-
-I guessed at some of the features, so remove any your version doesn't have yet. If you tell me what the game currently does, or what this is for (GitHub README, school assignment, portfolio), I can make it fit better.
-
+This is an early version of the project. More features and improvements will be added as I continue learning Java game development.
